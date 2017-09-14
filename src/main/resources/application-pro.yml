@@ -1,0 +1,11 @@
+server:
+  port: 8892
+  context-path: /sweet
+
+user:
+  userName: Avril Lavigne
+  age: 28
+  sex: 女
+  statusUnable: 0
+  statusEnable: 1
+
